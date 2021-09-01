@@ -1,0 +1,3 @@
+[submodule "gnosis-safe-dapp"]
+	path = gnosis-safe-dapp
+	url = https://github.com/celiakwan/gnosis-safe-dapp.git
